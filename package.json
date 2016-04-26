@@ -1,0 +1,14 @@
+{
+  "name": "learnyoumongo",
+  "version": "1.0.0",
+  "description": "my attempt to complete the learnyoumongo exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Bisasky",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.17"
+  }
+}
